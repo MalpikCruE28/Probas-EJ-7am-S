@@ -1,5 +1,5 @@
 #calculadora basica 
-
+#hola como estas 
 numA=input("ingrese el numero A:")
 
 numB=input("ingrese el numero B:")
